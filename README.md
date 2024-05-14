@@ -20,11 +20,11 @@ Hayır. Kimseye verilerinizi paylaşmamaktayız.
 
 Geliştiriciyle nasıl iletişime geçebilirim?
 
-Destek sunucusundan(https://discord.gg/GGKuXFrck6) lixeniorr#0001 ile iletişime geçebilirsiniz.
+Destek sunucusundan(yakında) lixeniorr ile iletişime geçebilirsiniz.
 
 Verilerinizi nasıl kaldırabilirsiniz?
 
-Destek sunucusundan(https://discord.gg/GGKuXFrck6) Lixe botun geliştricisi olan lixeniorr#0001 ile iletişime geçerek direkt kişisel verilerinizi kaldırabilirsiniz. Sunucu verilerini ise botu sunucudan atarak kaldırabilirsiniz.
+Destek sunucusundan(yakında) Lixe botun geliştricisi olan lixeniorr#0001 ile iletişime geçerek direkt kişisel verilerinizi kaldırabilirsiniz. Sunucu verilerini ise botu sunucudan atarak kaldırabilirsiniz.
 
 Fakat kara liste verilerini ancak geliştirici kaldırmayı uygun görürse kaldırır.
 
